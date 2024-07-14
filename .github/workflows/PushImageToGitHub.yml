@@ -20,4 +20,4 @@ jobs:
         with:
           context: DockerFileFolder/
           push: true
-          tags: prajwalbk07/testrepo:late
+          tags: prajwalbk07/testrepo:latest
